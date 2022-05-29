@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">My Custoum Converter</string>
+    <string name="fromTextView">From :</string>
+    <string name="toTextview">To :</string>
+    <string name="convertBtn">Convert</string>
 </resources>
